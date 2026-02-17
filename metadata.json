@@ -1,0 +1,9 @@
+
+{
+  "name": "Sportfly - Liga MX Travel",
+  "description": "Logística integral para fans de la Liga MX. Reserva Boletos, Vuelos y Hoteles en una sola transacción segura.",
+  "requestFramePermissions": [
+    "geolocation",
+    "camera"
+  ]
+}
