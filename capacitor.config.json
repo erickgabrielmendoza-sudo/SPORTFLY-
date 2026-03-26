@@ -1,0 +1,7 @@
+
+{
+  "appId": "com.sportfly.mx",
+  "appName": "Sportfly",
+  "webDir": "dist",
+  "server": { "androidScheme": "https" }
+}
